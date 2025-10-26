@@ -14,7 +14,7 @@
     --s-focus: ;
 
     --c-bg: ;
-    --c-bg-accent: ;#
+    --c-bg-accent: ;
 }
 
 * {
@@ -38,4 +38,5 @@
     'wght' 250,
     'GRAD' 0,
     'opsz' 24
+
 }
